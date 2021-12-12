@@ -4,7 +4,7 @@
 - How long will this TempMail Expired? idk, I've never test it
 
 ### Screenshot
-![img](https://github.com/xolvaid/temp-mail/blob/main/ss.png)
+![img](https://github.com/xolvaid/temp-mail/blob/main/ss.JPG)
 
 ### Getting Started.
 - Fork This Repo.
