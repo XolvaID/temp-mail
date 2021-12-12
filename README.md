@@ -1,9 +1,9 @@
-###What is Tempmail?
+### What is Tempmail?
 • TempMail Is A Temporary Email, that can create account from website, or receiving message
 • This TempMail can receive more Than 20 Messages
 • How long will this TempMail Expired? idk, I've never test it
 
-###Getting Started.
+### Getting Started.
 • Fork This Repo.
 • Join [PaddiRDP](https://t.me/paddirdp)
 • Open Terminal
@@ -20,7 +20,7 @@ python3 mail.py
 ```
 • done, Enjoy!
 
-###Disclaimer
+### Disclaimer
 ```
 This project is just for educational purposes only
 I'm not responsible if you're using this as fraud, spam, or abuses
