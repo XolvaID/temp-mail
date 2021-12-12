@@ -5,7 +5,7 @@
 
 ### Getting Started.
 - Fork This Repo.
-- Join [PaddiRDP](https://t.me/paddirdp)
+- Join [PaddiRDP](https://t.me/paddirdp) and [XolvaCodes](https://t.me/xolvacode)
 - Open Terminal
 - And Run:
 ```
