@@ -25,8 +25,10 @@ python3 mail.py
 
 ### Disclaimer
 ```
-This project is just for educational purposes only
-I'm not responsible if you're using this as fraud, spam, or abuses
+This project is just for 
+educational purposes only
+I'm not responsible if you're using this as 
+fraud, spam, or abuses
 ```
 
 # struggling in Problems? Contact Me
