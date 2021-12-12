@@ -3,6 +3,9 @@
 - This TempMail can receive more Than 20 Messages
 - How long will this TempMail Expired? idk, I've never test it
 
+### Screenshot
+![img](https://github.com/xolvaid/temp-mail/blob/main/ss.png)
+
 ### Getting Started.
 - Fork This Repo.
 - Join [PaddiRDP](https://t.me/paddirdp) and [XolvaCodes](https://t.me/xolvacode)
