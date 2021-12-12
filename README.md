@@ -27,7 +27,8 @@ python3 mail.py
 ```
 This project is just for 
 educational purposes only
-I'm not responsible if you're using this as 
+I'm not responsible if you're 
+using this as 
 fraud, spam, or abuses
 ```
 
